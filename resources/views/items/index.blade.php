@@ -359,7 +359,7 @@
     <footer class="bg-white border-t border-slate-200 mt-12 py-5">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row justify-between items-center text-xs text-slate-400">
             <p><strong class="text-setsail-maroon">SetSail</strong> <strong class="text-setsail-navy">BizAccel</strong> &mdash; The President University Business Accelerator</p>
-            <p class="mt-1 sm:mt-0">IT Support Internship Technical Assignment &bull; Laravel MVC + MySQL + REST API</p>
+            <p class="mt-1 sm:mt-0">&copy; 2026 IT Support Division &bull; Developed by <span class="font-semibold text-setsail-navy">Immanuel Elvando</span></p>
         </div>
     </footer>
 
